@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C941FE6A-5986-4FBB-BDF4-52B4FA46D788}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C941FE6A-5986-4FBB-BDF4-52B4FA46D788}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|solutionrelative:service\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C941FE6A-5986-4FBB-BDF4-52B4FA46D788}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\consoleapp1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C941FE6A-5986-4FBB-BDF4-52B4FA46D788}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\service\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|solutionrelative:service\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\service\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|solutionrelative:service\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|solutionrelative:service\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|c:\\users\\rahilrm\\source\\repos\\consoleapp1\\service\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353F0C1-C51B-4DC7-99FD-14A9BC21556A}|Service\\Service.csproj|solutionrelative:service\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Service\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T07:50:42.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Service\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Service\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:50:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Service\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Service\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:48:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Service\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Models\\Customer.cs",
+              "RelativeToolTip": "Service\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:48:17.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\Service\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Service\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:31:50.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ConsoleApp1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:27:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\rahilrm\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T06:19:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
